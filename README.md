@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/banner.png" alt="LockInLearn Banner" width="400">
+  <img src="assets/images/banner.png" alt="LockInLearn Banner" width="1000">
 </p>
 
 # LockInLearn
